@@ -18,10 +18,10 @@ Siga os passos abaixo para configurar e rodar o projeto em sua máquina local:
 
    ```bash
    # Clone o repositório
-   $ git clone https://github.com/seu-usuario/cardapio-digital-backend
+   $ git clone https://github.com/dore4n/cardapio
 
    # Acesse o diretório do projeto
-   $ cd cardapio-digital-backend
+   $ cd cardapio
 Configure o banco de dados PostgreSQL:
 
 Certifique-se de que o PostgreSQL está instalado e rodando em sua máquina. Crie um banco de dados para a aplicação.
